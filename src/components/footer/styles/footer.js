@@ -36,12 +36,14 @@ export const Link = styled.a`
 `;
 
 export const Title = styled.p`
+    text-align: center;
     font-size: 16px;
     color: #757575;
     margin-bottom: 40px;
 `;
 
 export const Text = styled.p`
+    text-align: center;
     font-size: 13px;
     color: #757575;
     margin-bottom: 40px;

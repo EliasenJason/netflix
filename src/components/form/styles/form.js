@@ -1,8 +1,6 @@
 import styled from 'styled-components'
 import { Link as ReachRouterLink } from 'react-router-dom'
 
-//Container, Base, Title, Text, TextSmall, Error, Input, Submit, Link
-
 export const Container = styled.div`
     display: flex;
     flex-direction: column;
